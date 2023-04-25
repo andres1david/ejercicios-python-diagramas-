@@ -62,5 +62,12 @@ while True:
                                                             agregartinto = input("si=")
                                                             if agregartinto == "1":
                                                                 print("sacar vaso")
+                                                                sacarvaso = input("si=")
+                                                                if sacarvaso == "1":
+                                                                    print("servir")
+                                                                    servir = input("si=")
+                                                                    if servir == "1":
+                                                                        print("disfrutar")
+                                                                
     elif quierescafe == "2":
         print("fin")
