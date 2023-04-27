@@ -1,4 +1,5 @@
 print("diagrama cafe")
+print("inicio")
 print("quieres un cafe")
 print("1)si")
 print("2)no")

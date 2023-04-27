@@ -1,4 +1,5 @@
 print("diagrama huevo frito")
+print("inicio")
 print("quieres un huevo frito")
 print("1)si")
 print("2)no")

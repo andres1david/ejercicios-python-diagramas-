@@ -1,4 +1,5 @@
 print("diagrma reservacion en un restaurante")
+print("inicio")
 print("quieres ir a un restaurante")
 print("1)si")
 print("2)no")
@@ -18,13 +19,13 @@ while True:
                     entrarpagina = input("si=")
                     if entrarpagina == "1":
                         print("hay disponibilidad")
-                        haydisponibilidad = ("si o no=")
+                        haydisponibilidad = input("si o no=")
                         if haydisponibilidad == "1":
                             print("hay mesa para dos")
                             haymesa = input("si o no=")
                             if haymesa == "1":
                                 print ("hacer reserba")
-                                ("fin")
+                                print("fin")
                                 break
                             elif haymesa == "2":
                                 print("buscar otro restaurante")
